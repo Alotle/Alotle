@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning coding.
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on none.
-- 📫 How to reach me by email! (heavenbeast1130@gmail.com)
+- 📫 How to reach me by email!
 even tho I do nothing >.<
 
 <!---
